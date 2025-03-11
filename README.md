@@ -1,8 +1,6 @@
 ```
 Currently delving deeper in backend programming with Express.js
-```
 
-<!---
         `'::.
     _________H ,%%&%,
    /\     _   \%&&%%&%
@@ -11,4 +9,4 @@ Currently delving deeper in backend programming with Express.js
   |  |   .-.   | ||  
 ~~@._|@@_|||_@@|~||~~~~~~~~~~~~~
      `""") )"""`
--->
+```
