@@ -1,5 +1,5 @@
 ```
-currently delving deeper in backend programming with express
+Currently delving deeper in backend programming with Express.js
 ```
 
 <!---
